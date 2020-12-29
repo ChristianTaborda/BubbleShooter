@@ -1,2 +1,2 @@
 # BubbleShooter
-Bubble Shooter Game developed in Scheme
+Bubble Shooter Game developed in Racket
